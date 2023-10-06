@@ -1,6 +1,6 @@
 {
-	"name": "webvimark/module-user-management",
-	"description": "User with improved RBAC",
+	"name": "stasionok/user-management",
+	"description": "Fork webvimark/user-management for php7.3+",
 	"autoload": {
 		"psr-4": {
 			"webvimark\\modules\\UserManagement\\": ""
