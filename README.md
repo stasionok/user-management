@@ -22,13 +22,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require webvimark/module-user-management
+composer require stasionok/user-management
 ```
 
 or add
 
 ```
-"webvimark/module-user-management": "^1"
+"stasionok/user-management": "^1"
 ```
 
 to the require section of your `composer.json` file.
